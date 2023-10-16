@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 674 674" style="enable-background:new 0 0 674 674;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#FBBB00;}
+	.st2{fill:#518EF8;}
+	.st3{fill:#28B446;}
+	.st4{fill:#F14336;}
+	.st5{fill:#FFFFFF;}
+	.st6{fill:#BF3300;}
+	.st7{fill:#ffffff;}
+	.st8{fill:#FFE000;}
+	      #video, #loudspeaker, #graphics{
+    animation: rotebox 50s linear infinite;
+    transform: rotate(0deg);
+    transform-origin: center center;
+}
+@keyframes rotebox{
+0%{
+    transform: rotate(0deg);
+}
+100%{
+    transform: rotate(360deg);
+}
+}
+</style>
+<g id="video">
+   <path id="Rectangle_125" data-name="Rectangle 125" d="m472.2,35.5h0c14.4,0,26,11.6,26,26h0c0,14.4-11.6,26-26,26h0c-14.4,0-26-11.6-26-26h0c0-14.4,11.7-26,26-26Z" style="fill: #fff; stroke-width: 0px;"/>
+    <g id="Outlined_Mnemonics_Logos" data-name="Outlined Mnemonics Logos">
+      <g id="Xd">
+        <path d="m475.9,55.01l-8.04,4.74.54,9.9c0,.07-.02.14-.06.19s-.08-.02-.17-.06l-3.25-1.75c-.23-.12-.38-.22-.4-.42.02-.76.02-1.51.05-2.26.01-.74,0-1.51,0-2.31s-.02-1.59-.03-2.4l-.03-.02c-.63.45-1.28.89-1.94,1.32-.65.43-1.31.87-1.94,1.3-.65.42-1.3.86-1.94,1.26-.13.11-.25.06-.41-.02l-3.12-1.68c-.06-.03-.11-.03-.08-.1.02-.06.06-.11.11-.14l8.31-4.87-.39-9.6c-.01-.08,0-.14.05-.16.05-.03.12-.01.17.02l3.22,1.73c.07.04.13.09.18.14.04.06.06.12.07.2-.06.76-.07,1.53-.08,2.32.01.79.02,1.57.05,2.35.02.78.01,1.54-.02,2.31l.03.02c.63-.46,1.27-.91,1.91-1.34.63-.43,1.28-.85,1.93-1.27s1.29-.86,1.91-1.28c.04-.05.1-.09.16-.1.07,0,.14.02.2.07l3,1.61c.08.02.13.1.1.18,0,.02-.05.06-.1.08h0Z" style="fill: #90349c; stroke-width: 0px;"/>
+        <path d="m474.41,73.52c-1.06-.55-1.99-1.33-2.71-2.28-.67-.89-1.04-1.97-1.11-3.08-.06-1.15.27-2.37.96-3.66.55-1.06,1.38-1.95,2.39-2.58,1.04-.63,2.23-.98,3.44-.99,1.29-.02,2.63.35,4.03,1.11.07.04.17.09.29.17.12.08.26.16.42.27l2.41-4.49c.05-.1.13-.13.23-.08l2.88,1.55c.08.02.1.11.09.18l-.02.03-7.27,13.52c-.14.26-.28.55-.43.87-.13.31-.27.61-.39.85-.05.1-.14.16-.26.15-.91-.08-1.81-.28-2.68-.56-.79-.26-1.56-.58-2.29-.98Zm2.92-2.09l3.36-6.25c-.11-.1-.23-.19-.35-.28-.15-.1-.3-.2-.45-.28-.55-.3-1.17-.48-1.8-.49-.61-.02-1.22.12-1.77.4-.56.29-1.04.81-1.44,1.55-.28.49-.46,1.03-.55,1.59-.06.46-.03.91.1,1.35.13.4.35.78.66,1.09.31.33.68.6,1.08.82.21.11.42.21.61.29.18.11.35.17.55.2Z" style="fill: #90349c; stroke-width: 0px;"/>
+      </g>
+    </g>
+</g>
+<g id="loudspeaker">
+   <path id="Rectangle_124" data-name="Rectangle 124" d="m31,326h0c14.4,0,26,11.6,26,26h0c0,14.4-11.6,26-26,26h0c-14.4,0-26-11.6-26-26h0c0-14.4,11.6-26,26-26Z" style="fill: #fff; stroke-width: 0px;"/>
+     <g id="Page-1">
+      <g id="sketch-symbol">
+        <polygon id="Path" points="20.78 361.11 19.89 352.67 20.78 344.22 29.56 337.69 47 352.67 29.56 367.65 20.78 361.11" style="fill: #fdb300; stroke-width: 0px;"/>
+        <g id="Group">
+          <polygon id="Path-2" data-name="Path" points="29.56 361.58 47 352.67 29.56 367.65 29.56 361.58" style="fill: #ea6c00; stroke-width: 0px;"/>
+          <polygon id="Path-3" data-name="Path" points="29.56 343.75 47 352.67 29.56 337.69 29.56 343.75" style="fill: #ea6c00; stroke-width: 0px;"/>
+          <polygon id="Path-4" data-name="Path" points="29.56 361.58 29.56 343.75 47 352.67 29.56 361.58" style="fill: #fdad00; stroke-width: 0px;"/>
+        </g>
+        <g id="Group-2" data-name="Group">
+          <polygon id="Path-5" data-name="Path" points="19.89 352.67 20.78 361.11 29.56 361.58 19.89 352.67" style="fill: #fdd231; stroke-width: 0px;"/>
+          <polygon id="Path-6" data-name="Path" points="19.89 352.67 20.78 344.22 29.56 343.75 19.89 352.67" style="fill: #fdd231; stroke-width: 0px;"/>
+          <polygon id="Path-7" data-name="Path" points="29.56 337.69 20.78 344.22 29.56 343.75 29.56 337.69" style="fill: #fdad00; stroke-width: 0px;"/>
+          <polygon id="Path-8" data-name="Path" points="29.56 367.65 20.78 361.11 29.56 361.58 29.56 367.65" style="fill: #fdad00; stroke-width: 0px;"/>
+          <polygon id="Path-9" data-name="Path" points="19.89 352.67 29.56 361.58 29.56 343.75 19.89 352.67" style="fill: #feeeb7; stroke-width: 0px;"/>
+        </g>
+      </g>
+    </g>
+</g>
+<g id="graphics">
+   <path id="Rectangle_126" data-name="Rectangle 126" d="m546.9,534.1h0c14.4,0,26,11.6,26,26h0c0,14.4-11.6,26-26,26h0c-14.4,0-26-11.6-26-26h0c0-14.3,11.6-26,26-26Z" style="fill: #fff; stroke-width: 0px;"/>
+   <path id="path0_fill" data-name="path0 fill" d="m542.39,547c-2.12,1.51-2.62,4.46-1.11,6.59l2.74,3.85,3.85-2.74c2.12-1.51,2.62-4.46,1.11-6.59s-4.46-2.62-6.59-1.11Z" style="fill: #0acf83; stroke-width: 0px;"/>
+    <path id="path1_fill" data-name="path1 fill" d="m554.45,555.8c1.51,2.12,1.02,5.07-1.11,6.59l-3.85,2.74-5.48-7.69,3.85-2.74c2.12-1.51,5.07-1.02,6.59,1.11Z" style="fill: #a259ff; stroke-width: 0px;"/>
+    <path id="path1_fill-2" data-name="path1 fill" d="m559.93,563.5c1.51,2.12,1.02,5.07-1.11,6.59l-3.85,2.74-5.48-7.69,3.85-2.74c2.12-1.51,5.07-1.02,6.59,1.11Z" style="fill: #f24e1e; stroke-width: 0px;"/>
+    <path id="path2_fill" data-name="path2 fill" d="m554.98,572.82l-3.85,2.74c-2.12,1.51-5.07,1.02-6.59-1.11s-1.02-5.07,1.11-6.59l3.85-2.74,5.48,7.69Z" style="fill: #ff7262; stroke-width: 0px;"/>
+    <path id="path3_fill" data-name="path3 fill" d="m539.07,566.76c-1.51-2.12-1.02-5.07,1.11-6.59s5.07-1.02,6.59,1.11,1.02,5.07-1.11,6.59-5.07,1.02-6.59-1.11Z" style="fill: #1abcfe; stroke-width: 0px;"/>
+  </g>
+</svg>
+
+
